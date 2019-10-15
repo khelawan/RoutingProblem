@@ -1,0 +1,257 @@
+[
+    {
+      "category": "DevOps" ,
+      "link" : "//www.slideshare.net/slideshow/embed_code/key/EKrBs2Tatu9qZ1",
+      "title": "DevOps game lego",
+      "href" :  "//www.slideshare.net/arunmurughan/devops-game-lego"
+    },
+    {
+        "category": "DevOps",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/iRkN71OtMiNFzt",
+        "title": "DevOps - A Gentle Introduction",
+        "href": "//www.slideshare.net/CodeOps/devops-a-gentle-introduction-63613386"
+      },
+    {
+        "category": "DevOps",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/mMp30mxdaFOcOQ",
+        "title": "Introduction to chef",
+        "href": "//www.slideshare.net/krishnakishore7982/introduction-to-chef-65232112"
+    },
+    {
+        "category":"Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/mY4bVejZHbKyul",
+        "title": "Java - Better with Design",
+        "href": "//www.slideshare.net/narayan25/better-java-with-design"
+      },
+    
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/Arsj25nbrrLYrP",
+        "title": "Advanced Debugging Using Java ByteCodes",
+        "href": "//www.slideshare.net/sgganesh/advanced-debugging-using-java-bytecodes"
+    },
+
+    {
+        "category": "JavaScript",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/j0GkBJ9qyOZ1Rs",
+        "title": "Mongo DB",
+        "href": "//www.slideshare.net/AthiraMukundan/mongo-db-66370189"
+    },
+
+    {
+        "category": "JavaScript",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/kaiqu8ACqLTSxb",
+        "title": "Angular JS",
+        "href": "//www.slideshare.net/AthiraMukundan/angular-js-66369887"
+    },
+
+    {
+        "category":"Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/zO4WeXpOFPpzrk",
+        "title": "Core Java - Quiz Questions - Bug Hunt",
+        "href": "//www.slideshare.net/CodeOps/core-java-quiz-questions-bug-hunt"
+    },
+
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/2zGisbyR83XS8r",
+        "title": "Effective DB Interaction ",
+        "href": "//www.slideshare.net/CodeOps/effective-db-interaction"
+    },
+
+    {
+        "category": "DevOps",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/oEzrEqE260tBw",
+        "title": "DevOps Toolchain",
+        "href" : "//www.slideshare.net/grahaindia/devops-toolchain-v10"
+    },
+
+    {
+        "category": "DevOps",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/zMHgTexgBPcdiA",
+        "title": "DevOps Fundamentals: A perspective on DevOps Culture",
+        "href":"//www.slideshare.net/CodeOps/devops-fundamentals-a-perspective-on-devops-culture"
+    },
+
+
+    {
+        "category": "DevOps",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/Mil1g0zvPZO58e",
+        "title": "Zero Downtime releases through DevOps Continuous Delivery",
+        "href":"//www.slideshare.net/arunmurughan/zero-downtime-release-through-devops-continuous-delivery"
+    },
+
+
+    {
+        "category": "JavaScript",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/CfRJYgXyz9f63Z",
+        "title": "AngularJS Anatomy &amp; Directives",
+        "href":"//www.slideshare.net/digikrit/angularjs-anatomy-directives"
+    },
+
+    {
+        "category": "DevOps",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/kqQKAOOjY1bsLX",
+        "title": "7 best quotes on dev ops",
+        "href":"//www.slideshare.net/CodeOps/7-best-quotes-on-dev-ops"
+    },
+
+    {
+        "category": "DevOps",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/DqSO56h7I0eZoh",
+        "title": "5 must to-read books on DevOps",
+        "href":"//www.slideshare.net/CodeOps/5-must-toread-books-on-devops"
+    },
+
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/bnpMlMlkXxr4oI",
+        "title": "Productive Programming in Java 8 - with Lambdas and Streams ",
+        "href": "//www.slideshare.net/sgganesh/productive-programming-in-java-8-with-lambdas-and-streams"
+    },
+
+
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/nMp5mv87dc2m7w",
+        "title": "Sailing with Java 8 Streams",
+        "href":"//www.slideshare.net/sgganesh/sailing-with-java-8-streams"
+    },
+
+    {
+        "category":"Containers",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/sqynQBk3yZ3Za7",
+        "title": "DevOps game marshmallow challenge",
+        "href": "//www.slideshare.net/arunmurughan/devops-game-marshmallow-challenge" 
+    },
+
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/ej3YHYWkbtp1Al",
+        "title": "Modern Programming in Java 8 ",
+        "href":"//www.slideshare.net/sgganesh/modern-programming-in-java-8-lambdas-streams-and-date-time-api"
+    },
+    
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/JZqi0vpAWfwgC1",
+        "title": "OCP Samples Questions: Java streams",
+        "href" : "//www.slideshare.net/HarikiranG/ocjp-samples-questions-java-streams"
+    },
+
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/4yk4F92pAoCtZ7",
+        "title": "OCP Java SE 8 Exam Sample Questions",
+        "href": "//www.slideshare.net/HarikiranG/ocp-java-se-8-exam-sample-questions"
+    },
+
+    {
+        "category": "Containers",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/DqSO56h7I0eZoh",
+        "title": "5 must to Read Books on DevOps",
+        "href": "//www.slideshare.net/CodeOps/5-must-toread-books-on-devops"
+    },
+
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/DogTgJn100Q9d1",
+        "title": "Java 8 Concurrency Abstractions",
+        "href": "//www.slideshare.net/NawazishMohammadKhan/java-8-concurrency-abstractions"
+    },
+
+
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/683J86AV4C5qLj",
+        "title": "Java Concurrency by Example",
+        "href":"//www.slideshare.net/CodeOps/java-concurrency-by-example-64758675"
+    },
+
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/olV5amnxdo5hKU",
+        "title": "Java Concurrency Quiz",
+        "href": "//www.slideshare.net/CodeOps/java-concurrency-questions-and-answers"
+    },
+
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/IhsT4HuFs3PJo3",
+        "title": "Java Generics - by Example",
+        "href": "//www.slideshare.net/CodeOps/java-generics-by-example-68713205"
+      },
+    {
+        "category": "Java",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/NmBC8lbBt0qlzf",
+        "title": "Java Generics Quiz",
+        "href":"//www.slideshare.net/CodeOps/java-generics-quiz-questions"
+    },
+
+    {
+        "category": "Mobile",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/3WgYSFxKYvHV9a",
+        "title": "Choosing Between Cross Platform or Native App Development",
+        "href":"//www.slideshare.net/CodeOps/choosingbetween-cross-platform-of-native-development"
+    },
+
+    {
+        "category": "Serverless",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/lHA0qAgfeWgo2A",
+        "title": "Serverless Architecture - A Gentle Overview",
+        "href":"//www.slideshare.net/CodeOps/serverless-architecture-a-gentle-overview"
+    },
+
+
+    {
+        "category": "Serverless",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/CfRJYgXyz9f63Z",
+        "title": "Auto Retweets Using AWS Lambda",
+        "href":"//www.slideshare.net/CodeOps/auto-retweets-using-aws-lambda"
+    },
+
+
+    {
+        "category": "Serverless",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/o7R0MuGBx4VEXQ",
+        "title": "Serverless meetup - OpenWhisk overview and architecture",
+        "href":"//www.slideshare.net/SandeepPaliwal6/serverless-meetup-openwhisk-overview-and-architecture"
+    },
+
+
+    {
+        "category": "Bots",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/7PU3f9pLXXW9WU",
+        "title": "Building a chatbot – step by step",
+        "href":"//www.slideshare.net/CodeOps/building-a-chatbot-step-by-step"
+    },
+    
+    {
+        "category": "Bots",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/2yzaV4goFt72uF",
+        "title": "Comparing Technologies for Building Chatbots",
+        "href":"//www.slideshare.net/CodeOps/comparing-technologies-for-building-chatbots"
+    },
+
+    {
+        "category": "Serverless",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/6arxvc80PTwBBq",
+        "title": "Chatbots with Serverless",
+        "href":"//www.slideshare.net/SrushithR/chatbots-with-serverless-88971858"
+    },
+
+
+    {
+        "category":"Serverless",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/ugETTl4rTtaBHi",
+        "title": "Serverless: Why is it hot and What is it not?",
+        "href":"//www.slideshare.net/SrushithR/serverless-why-is-it-hot-and-what-is-it-not"
+    },
+
+    {
+        "category": "Serverless",
+        "link" : "//www.slideshare.net/slideshow/embed_code/key/NMNA8MQehhHcR0",
+        "title": "Serverless Best Practices and Patterns",
+        "href": "//www.slideshare.net/SrushithR/serverless-best-practices-and-patterns-132371389"
+    }
+]

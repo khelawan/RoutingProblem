@@ -1,0 +1,377 @@
+.clients{
+  padding-left: 10%;
+  padding-left: 10%;
+}
+.post-footer {
+margin-bottom: 60px; 
+}
+.media-body {
+margin-right: 0px;
+}
+.content-section {
+  min-height: 1500px;
+}
+.sidebar-section {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+.panel-default {
+  border-color: #ddd;
+  border-radius: 10px;
+}
+.sidebar-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.make-me-sticky {
+  position: -webkit-sticky;
+    position: sticky;
+    top: 100px;
+    margin-right:45px;
+}
+.black1{
+  background: linear-gradient(-33deg, #B222F1 -15%, #5054EB 85%);
+  height: 100px;
+}
+
+article {
+  
+  border-radius: 12px;
+  padding: 45px 0 60px;
+
+}
+.title-section1{
+    text-align: center;
+  padding: 60px;
+ 
+  background: #fff;
+   border-radius: 12px;
+   margin-bottom: 33px;
+   border: solid 1px #f1f1f1; 
+}
+
+.title-section, .content-section, .sidebar-section {
+  background: #fff;
+   border-radius: 12px;
+   margin-bottom: 33px;
+   border: solid 10px #f1f1f1; 
+}
+
+.title-section {
+  text-align: center;
+  padding: 50px 15px;
+  margin-bottom: 30px;
+}
+
+.content-section  {
+ 
+  /* margin-right: 10px; */
+  padding-top: 10px;
+}
+
+.sidebar-item {
+  text-align: center;
+}
+h3 {
+    background: gold;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 50px 0 100px; 
+    border-bottom: solid 1px #fff;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+.list2{
+ margin:0px;
+}
+.list2 :hover{
+  color: #212529; 
+}
+
+hr {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0,0,0,.1);
+}
+
+
+#back2start{
+  width: 40px;
+  line-height: 40px;
+  overflow: hidden;
+  z-index: 999;
+  display: none;
+  cursor: pointer;
+  -moz-transform: rotate(270deg);
+  -webkit-transform: rotate(270deg);
+  -o-transform: rotate(270deg);
+  -ms-transform: rotate(270deg);
+  transform: rotate(270deg);
+  position: fixed;
+  bottom: 50px;
+  right: 0;
+  border-radius:5px;
+  box-shadow: 0px 0px 0px 7px rgba(221, 219, 219, 0.2);
+  margin-right: 50px; 
+  background-color:  #1bd1ea;;
+  color: #555;
+  text-align: center;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+#back2start:hover {
+  background-color: black;
+  color:white;
+}
+.container .our-past{
+  margin-top:-20px;
+}
+.container .past-conferences{
+  margin-top:-20px;
+  }
+#slider-text{
+
+  font-family: work sans;
+}
+
+.map{
+ position: relative;
+    z-index: 2;
+    font-size: 14px;
+  margin-left: -120px;
+}
+
+.footer-widget .resources{
+  margin-left: -45px;
+}
+
+.footer-widget .offerings{
+  margin-left: 30px;
+}
+
+.footer-widget .logo{
+ margin-left: 35px
+}
+
+.space{
+margin-top:70px;
+}
+
+ .prev {
+background-color: grey; padding: 18px 20px 13px 18px; border-radius: 50%;
+}
+
+ .next{
+  background-color: grey; padding: 18px 20px 13px 18px; border-radius: 50%;
+}
+/* // class for group */
+.post-body .group {
+  
+  margin-left:-45px;
+  font-size:16px;
+  color:rgb(1, 1, 20);
+}
+
+.post-body .group1 {
+  
+  margin-right:40px;
+  font-size:16px;
+  color:rgb(1, 1, 20);
+}
+.horizantal{
+  margin-top: 50px;
+}
+.media-body .serve{
+  margin-top: 12px;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  #back2start{
+    width: 40px;
+    line-height: 40px;
+    overflow: hidden;
+    z-index: 999;
+    display: none;
+    cursor: pointer;
+    -moz-transform: rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    transform: rotate(270deg);
+    position: fixed;
+    bottom: 30px;
+    right: 0;
+    border-radius:5px;
+    box-shadow: 0px 0px 0px 7px rgba(221, 219, 219, 0.2);
+    margin-right: 15px; 
+    background-color:  #1bd1ea;;
+    color: #555;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+  }
+  
+  #back2start:hover {
+    background-color: black;
+    color:white;
+  }
+  
+}
+
+
+@media only screen and (max-width: 600px) {
+  .map{
+    position: relative;
+       z-index: 2;
+       font-size: 14px;
+     margin-left: 0px;
+   }
+   .footer-widget .resources{
+    margin-left: 0px;
+  }
+  .footer-widget .offerings{
+    margin-left: 0px;
+  }
+  
+  .footer-widget .logo{
+    margin-left: 0px;
+    margin-bottom:50px;
+    margin-top:-30px;
+   }
+
+   .product-cart-info-list.list-inline {
+    /* padding-left: 20px; */
+    margin-top: -38px;
+    margin-left: 50px;
+  } 
+  .prev {
+    background-color: grey; padding: 10px; border-radius: 25%; margin-right: 40px
+    }
+    
+  .next{
+      background-color: grey; padding: 10px; border-radius: 25%; margin-left: 40px;
+  }
+  .panel-thumbnail .single-blog {
+     margin-bottom: 0px; 
+ }
+ .panel-default .panel-thumbnail .single-blog .post-image{
+  height:100px;
+}
+ .agency-service-area .agency-section-title  {
+  margin-bottom: 23px;
+  position: relative;
+  z-index: 1;
+  margin-top:225px;
+}
+.horizantal{
+  margin-top: 0px;
+}
+.nav-toggle{
+  margin-top:5px;
+  background: white;
+}
+#slider-area{
+  width:320px;
+  margin:5px;
+}
+#slider-text{
+  font-size: 16px;
+  padding-right:15px;
+  font-family: work sans;
+  text-align: justify;
+}
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.media-body .charge{
+  margin-top:10px;
+}
+.media-body .serv{
+  margin-top: 20px;
+}
+.container .past-conferences{
+margin-top:0px;
+}
+.container .our-past{
+margin-top:40px;
+ }
+ 
+ .xs-header .xs-menus .nav-header{
+  max-width: 200px;
+  padding: 0 15px;
+  margin-left:0px;
+ }
+ #groups{
+   margin-top: 100px;
+ }
+ .navbar-fixed-top {
+  position: relative;
+  top: auto;
+}
+.navbar-collapse {
+  max-height: none;
+}
+body {
+  margin: 0;
+}
+.horizantal{
+  margin-top: 30px;
+}
+.xs-header.header-transparent.header-style3{
+  /* height:62px; */
+}
+.post-body .group {
+  
+  
+    margin-left: -110px;
+    margin-bottom: 15px;
+    color: rgb(1, 1, 20);
+}
+}
+
+@media only screen and (max-width: 768px) {
+  [class*="col-"] {
+    width: 100%;
+  }
+
+}
+
+.button1 {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin-left: -38px;
+  /* margin-bottom: -24px; */
+  cursor: pointer;
+}
+.button12 {border-radius: 27px;}
+#loader { animation: css 0s 7s forwards; }
+
+
+
+
+
